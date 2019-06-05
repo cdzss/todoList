@@ -1,3 +1,3 @@
 # p1
-this is project1 in new computer
+this is a webpack project
 
