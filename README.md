@@ -1,3 +1,3 @@
 # p1
-this is a webpack project
+this is a webpack project named todoList
 
